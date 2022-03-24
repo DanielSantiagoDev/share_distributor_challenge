@@ -62,6 +62,8 @@ Made with jest : Run the following
 ```bash
 npm run test
 ```
+![Alt text](/unit_tests.gif?raw=true "Optional Title")
+
 ## API
 
 Postman collection (documentation) is provided, but the project consist of one POST endpoint at /claim-free-share with the next JSON body: 
