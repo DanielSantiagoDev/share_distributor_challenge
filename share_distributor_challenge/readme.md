@@ -19,7 +19,7 @@ This application has 3 executions modes: Standard, with target CPA and with part
 
 * You can decide wich execution mode you with either through ENV variables, the Free_shares_giver constructor or the share_algorithm.json config file.
 
-* The minimum and maximun price range for each range can be configured with ENV variables, as requested.Also de target CPA can be given with ENV variables. If no one is provided, a default fallback is given.
+* The minimum and maximun price range for each range can be configured with ENV variables, as requested.Also the target CPA can be given with ENV variables. If no one is provided, a default fallback is given.
 * A postman file is included to the documentation of the API.
 
 ## Other assumptions
