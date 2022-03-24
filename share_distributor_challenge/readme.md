@@ -23,7 +23,7 @@ This application has 3 executions modes: Standard, with target CPA and with part
 * A postman file is included to the documentation of the API.
 
 ## Other assumptions
- *As it is a mock, the market is always open (but is checked if it is open or not when neccesary, but no close scenario is conteplated on the code)
+ *As it is a mock, the market is always open (but is checked if it is open or not when neccesary, but no closed market scenario is conteplated on the code)
  *As it is a mock, not providing an account_id on the POST request will result in a default one being added
 
 ## Requirements
