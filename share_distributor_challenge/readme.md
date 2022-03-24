@@ -5,7 +5,7 @@
 Made with typescript, unit tested with jest. 
 Entry point is index.js. 
 Used express for the small api.
-Dockericed
+Dockerized
 
 ## Implementations and assumptions
 
