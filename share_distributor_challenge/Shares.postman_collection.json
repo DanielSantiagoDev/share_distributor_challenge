@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "dfe952ac-3ed6-4551-87b1-328d61b27600",
+		"name": "Shares",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"account_id\" : \"X-34234\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:5000/claim-free-share",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"claim-free-share"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
