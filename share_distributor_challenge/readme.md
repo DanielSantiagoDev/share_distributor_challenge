@@ -63,6 +63,7 @@ Made with jest : Run the following
 npm run test
 ```
 ![Alt text](./unit_tests.gif?raw=true "Optional Title")
+![Alt text](./test_coverage.PNG?raw=true "Optional Title")
 
 ## API
 
