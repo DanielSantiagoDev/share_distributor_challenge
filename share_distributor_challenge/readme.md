@@ -62,7 +62,7 @@ Made with jest : Run the following
 ```bash
 npm run test
 ```
-![Alt text](/unit_tests.gif?raw=true "Optional Title")
+![Alt text](./unit_tests.gif?raw=true "Optional Title")
 
 ## API
 
